@@ -1,0 +1,36 @@
+{
+    "name": "Portfolio | Tan Zu Seng",
+    "short_name": "Portfolio",
+    "description": "Portfolio website of Tan Zu Seng, Software Engineer.",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#3498db", 
+    "background_color": "#ecf0f1", 
+    "dark_theme_color": "#4fc3f7",
+    "dark_background_color": "#263238",
+    "icons": [
+        {
+            "src": "logoWebsite192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logoWebsite.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+    {
+      "src": "Wide.png",
+      "sizes": "1120x747",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "Narrow.png",
+      "sizes": "351x755",
+      "type": "image/png"
+    }
+  ]
+}
